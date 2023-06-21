@@ -1,2 +1,9 @@
 Admin Dashboard for an Ecommerce Website 
 by-RAHUL PRATAP SRIVASTAVA
+
+TO RUN OPEN TERMINAL AND RUN-
+NMP INSTALL (or) NPM I
+
+THEN RUN
+
+NPM START
