@@ -7,4 +7,6 @@ NMP INSTALL (or) NPM I
 THEN RUN
 
 NPM START
-![Screenshot (7)](https://github.com/rahulps-gif/dashboard-admin/assets/78335805/75ab33b9-cd47-4b42-b4b3-5f2c014b953d)
+
+
+![Screenshot (4)](https://github.com/rahulps-gif/dashboard-admin/assets/78335805/931c11ee-265d-4f1c-9ca0-06597997e2f1)
