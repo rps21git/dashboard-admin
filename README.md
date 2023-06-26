@@ -21,5 +21,7 @@ SCREENSHOTS OF CODE OUTPUT-
 ![Screenshot (13)](https://github.com/rahulps-gif/dashboard-admin/assets/78335805/deec2bc3-ec00-4b4f-9eb3-153f23865bc0)![Screenshot (16)](https://github.com/rahulps-gif/dashboard-admin/assets/78335805/c29ba813-3af2-45c8-8112-cbbe51ffae03)
 
 ![Screenshot (21)](https://github.com/rahulps-gif/dashboard-admin/assets/78335805/2463685e-7455-4a38-858b-2a4335448d4b)
+![Screenshot (20)](https://github.com/rahulps-gif/dashboard-admin/assets/78335805/643745ba-aadd-4412-998c-59edf9cf0405)
 
-![Screenshot (11)](https://github.com/rahulps-gif/dashboard-admin/assets/78335805/d8ac7846-8be0-4691-8fd7-e86048de7f88)
+
+![Screenshot (22)](https://github.com/rahulps-gif/dashboard-admin/assets/78335805/11c2dc52-1813-432a-bf81-2983a75f0bc3)
